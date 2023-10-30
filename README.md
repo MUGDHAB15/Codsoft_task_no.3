@@ -1,6 +1,8 @@
 # Codsoft_task_no.3
 Credit Card Fraud Detection Model
 
+Link to the data set as it is quite heavy to upload here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Objective:
   Build a machine learning model to identify fraudulent credit card transactions. 
   Preprocess and normalize the transaction data, handle class 
